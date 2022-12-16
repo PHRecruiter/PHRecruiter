@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @PHRecruiter
 - 👀 I’m interested in Python, .Net, Angular, Nodejs, Java
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kc.costales@johnclements.com
 - 📲 Linkedin: https://www.linkedin.com/in/kccostales17/
 
