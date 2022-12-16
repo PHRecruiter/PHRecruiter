@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kc.costales@johnclements.com
+- 📲 Linkedin: https://www.linkedin.com/in/kccostales17/
 
 <!---
 PHRecruiter/PHRecruiter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
